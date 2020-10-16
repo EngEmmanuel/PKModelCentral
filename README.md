@@ -5,4 +5,6 @@ This is (will be) a Python library that can specify, solve and visualise the sol
 
 Specific requirements: ...
 
-This package defines several classes: ...
+Hello, it's Emmanuel. Can you see this change?
+
+Yes, I can see this change! - Julia
